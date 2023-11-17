@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FunQuiz/static/css/main.beb13c0a.css",
+    "main.js": "/FunQuiz/static/js/main.b166e418.js",
+    "index.html": "/FunQuiz/index.html",
+    "main.beb13c0a.css.map": "/FunQuiz/static/css/main.beb13c0a.css.map",
+    "main.b166e418.js.map": "/FunQuiz/static/js/main.b166e418.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb13c0a.css",
+    "static/js/main.b166e418.js"
+  ]
+}
